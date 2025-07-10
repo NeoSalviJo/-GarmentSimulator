@@ -5,7 +5,7 @@ public class GarmentSimulator {
         Scanner scanner = new Scanner(System.in);
         OutfitFactory factory = null;
 
-        System.out.println("👗 Welcome to the Garment Matching Simulator 👖");
+        System.out.println("Welcome to the Garment Matching Simulator");
         System.out.println("Choose an outfit type:");
         System.out.println("1. Casual");
         System.out.println("2. Professional");
